@@ -1,0 +1,1 @@
+[(<__main__.Product object at 0x000001EC6D4F7FD0>, 2), (<__main__.Product object at 0x000001EC6D4F7E20>, 1)], 180, 0, 0[(<__main__.Product object at 0x000002670B8748E0>, 5)], 475.0, 0, 0
